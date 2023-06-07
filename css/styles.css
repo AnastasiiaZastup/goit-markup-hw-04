@@ -299,7 +299,7 @@ body {
 }
 
 .peoplee {
-    padding-bottom: 8px;
+    padding-bottom: 32px;
     padding-left: 16px;
     padding-right: 16px;
     text-align: center;
@@ -384,9 +384,6 @@ body {
     color: #404bbf;
 }
 
-.custumer-link:hover .custumer-icon {
-    fill: #000000;
-}
 
 .custumer-h {
     margin-bottom: 72px;
